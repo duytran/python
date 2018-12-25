@@ -1,0 +1,67 @@
+[I 10:33:59.799 LabApp] The port 8888 is already in use, trying another port.
+[I 10:33:59.818 LabApp] JupyterLab extension loaded from /Users/duytran/.virtualenvs/python/lib/python3.6/site-packages/jupyterlab
+[I 10:33:59.818 LabApp] JupyterLab application directory is /Users/duytran/.virtualenvs/python/share/jupyter/lab
+[W 10:33:59.819 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 10:33:59.822 LabApp] JupyterLab extension loaded from /Users/duytran/.virtualenvs/python/lib/python3.6/site-packages/jupyterlab
+[I 10:33:59.822 LabApp] JupyterLab application directory is /Users/duytran/.virtualenvs/python/share/jupyter/lab
+[I 10:33:59.823 LabApp] Serving notebooks from local directory: /Users/duytran/Documents/data-science/python
+[I 10:33:59.823 LabApp] The Jupyter Notebook is running at:
+[I 10:33:59.823 LabApp] http://(Duys-MacBook-Pro.local or 127.0.0.1):8889/?token=d9324607faa1cc82f834968e24a599ce1206b81a8c828442
+[I 10:33:59.823 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:33:59.832 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/duytran/Library/Jupyter/runtime/nbserver-5398-open.html
+    Or copy and paste one of these URLs:
+        http://(Duys-MacBook-Pro.local or 127.0.0.1):8889/?token=d9324607faa1cc82f834968e24a599ce1206b81a8c828442
+[I 10:34:03.037 LabApp] Node v8.11.3
+    
+[I 10:34:03.040 LabApp] Build is up to date
+[I 10:34:15.863 LabApp] Creating new notebook in /
+[I 10:34:15.871 LabApp] Writing notebook-signing key to /Users/duytran/Library/Jupyter/notebook_secret
+[I 10:34:16.185 LabApp] Kernel started: b165fcfb-0ab2-4119-819d-64f688adb423
+[I 10:34:17.191 LabApp] Adapting to protocol v5.1 for kernel b165fcfb-0ab2-4119-819d-64f688adb423
+[I 10:34:17.211 LabApp] Adapting to protocol v5.1 for kernel b165fcfb-0ab2-4119-819d-64f688adb423
+[I 10:34:26.870 LabApp] Kernel shutdown: b165fcfb-0ab2-4119-819d-64f688adb423
+[W 10:34:26.877 LabApp] delete /Untitled.ipynb
+[I 10:34:49.433 LabApp] Creating new notebook in /notebooks
+[I 10:34:49.565 LabApp] Kernel started: 609825e3-41cf-4bb2-9e53-e10828930ae0
+[I 10:34:50.340 LabApp] Adapting to protocol v5.1 for kernel 609825e3-41cf-4bb2-9e53-e10828930ae0
+[I 10:36:49.528 LabApp] Saving file at /notebooks/Untitled.ipynb
+[I 10:37:35.160 LabApp] Creating new directory in /notebooks
+[I 10:38:49.576 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 10:40:49.612 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 10:42:49.650 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 10:44:49.694 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 10:46:49.743 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 10:48:49.784 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 10:50:49.829 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 10:52:49.868 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 10:54:49.915 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 10:56:49.965 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 10:58:50.015 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 11:00:50.065 LabApp] Saving file at /notebooks/data-structure-and-algorithms/array.ipynb
+[I 11:23:29.032 LabApp] Creating new notebook in /notebooks/data-structure-and-algorithms
+[I 11:23:29.236 LabApp] Kernel started: b363e2d5-8315-4a4c-a5e7-93d061f41f26
+[I 11:23:30.283 LabApp] Adapting to protocol v5.1 for kernel b363e2d5-8315-4a4c-a5e7-93d061f41f26
+[I 11:25:29.153 LabApp] Saving file at /notebooks/data-structure-and-algorithms/list.ipynb
+[I 11:27:29.192 LabApp] Saving file at /notebooks/data-structure-and-algorithms/list.ipynb
+[I 12:19:00.477 LabApp] Saving file at /notebooks/data-structure-and-algorithms/list.ipynb
+[I 12:21:00.531 LabApp] Saving file at /notebooks/data-structure-and-algorithms/list.ipynb
+[I 12:23:00.575 LabApp] Saving file at /notebooks/data-structure-and-algorithms/list.ipynb
+[I 12:25:00.628 LabApp] Saving file at /notebooks/data-structure-and-algorithms/list.ipynb
+[I 14:06:52.479 LabApp] Creating new notebook in /notebooks/data-structure-and-algorithms
+[I 14:06:52.673 LabApp] Kernel started: e76211d5-6983-47c3-a3a9-896b00a1cd6a
+[I 14:06:53.744 LabApp] Adapting to protocol v5.1 for kernel e76211d5-6983-47c3-a3a9-896b00a1cd6a
+[I 14:08:52.592 LabApp] Saving file at /notebooks/data-structure-and-algorithms/tuples.ipynb
+[I 14:10:52.622 LabApp] Saving file at /notebooks/data-structure-and-algorithms/tuples.ipynb
+[I 14:12:52.655 LabApp] Saving file at /notebooks/data-structure-and-algorithms/tuples.ipynb
+[I 14:14:52.696 LabApp] Saving file at /notebooks/data-structure-and-algorithms/tuples.ipynb
+[I 14:16:52.742 LabApp] Saving file at /notebooks/data-structure-and-algorithms/tuples.ipynb
+[I 14:24:52.812 LabApp] Saving file at /notebooks/data-structure-and-algorithms/tuples.ipynb
+[I 14:26:52.858 LabApp] Saving file at /notebooks/data-structure-and-algorithms/tuples.ipynb
+[I 14:40:53.093 LabApp] Saving file at /notebooks/data-structure-and-algorithms/tuples.ipynb
+[I 14:42:53.138 LabApp] Saving file at /notebooks/data-structure-and-algorithms/tuples.ipynb
+[I 15:05:19.646 LabApp] Kernel shutdown: 609825e3-41cf-4bb2-9e53-e10828930ae0
+[I 15:05:21.316 LabApp] Kernel shutdown: b363e2d5-8315-4a4c-a5e7-93d061f41f26
+[I 15:05:23.900 LabApp] Kernel shutdown: e76211d5-6983-47c3-a3a9-896b00a1cd6a
